@@ -1,7 +1,7 @@
 ### Test Brightcove asset redirects
 
 #### To use:
-- install node and npm (ahem... jason)
+- install node and npm - http://nodejs.org/ - (ahem... jason)
 - clone this
 - `npm install`
 - `node app.js`
